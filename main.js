@@ -44,7 +44,7 @@ const printBanner = () => {
     ];
 
     const boxColor = cyan;
-    const titleColor = white;
+    const titleColor = yellow;
     const creditColor = green;
 
     const innerWidth = Math.max(...lines.map(line => line.length));
