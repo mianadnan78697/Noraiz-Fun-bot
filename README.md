@@ -12,20 +12,20 @@
 
 ## 📦 Installation
 
-### 1️⃣ Clone the Repository
+### 1 Clone the Repository
 ```bash
 git clone https://github.com/mosibur1/funbot.git
 cd funbot
 ```
-### 2️⃣ Install Dependencies
+### 2 Install Dependencies
 ```bash
 npm install
 ```
-### 3️⃣ Create and enter LobbyID in data.txt File
+### 3 Create and enter LobbyID in data.txt File
 ```bash
 nano data.txt
 ```
-### 4️⃣ Run the Bot
+### 4 Run the Bot
 ```bash
 node main.js
 ```
