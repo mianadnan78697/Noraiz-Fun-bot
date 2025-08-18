@@ -39,12 +39,12 @@ const api = axios.create({
 
 const printBanner = () => {
     const lines = [
-        "     FUN BOT AUTO QUIZ     ",
-        "     Powered By: Forest Army     "
+        "     Auto Quiz Bot     ",
+        "        MRPTech     "
     ];
 
-    const boxColor = yellow;
-    const titleColor = cyan;
+    const boxColor = cyan;
+    const titleColor = yellow;
     const creditColor = green;
 
     const innerWidth = Math.max(...lines.map(line => line.length));
@@ -204,7 +204,7 @@ const main = async () => {
 };
 
 process.on('SIGINT', () => {
-    console.log(yellow('\n\n👋 Exiting bot. Goodbye!'));
+    console.log(yellow('\n\n👋 Closing bot. Goodbye from MRPtech'));
     process.exit(0);
 });
 
