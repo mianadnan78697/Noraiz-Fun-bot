@@ -40,7 +40,7 @@ const api = axios.create({
 const printBanner = () => {
     const lines = [
         "     Auto Quiz Bot     ",
-        "       MRPTech     "
+        "      MRPTech     "
     ];
 
     const boxColor = cyan;
