@@ -1,12 +1,12 @@
 {
   "name": "funquiz-bot-nodejs",
   "version": "1.0.0",
-  "description": "A bot by sandy to automatically solve quizzes in parallel string.",
+  "description": "No",
   "main": "main.js",
   "scripts": {
     "start": "node main.js"
   },
-  "author": "@itsmesatyavir",
+  "author": "@mrptechofficial",
   "license": "ISC",
   "dependencies": {
     "@google/generative-ai": "^0.15.0",
