@@ -1,11 +1,4 @@
-# 🎯 FUN Message Scoring Bot
-
-[![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/itsmesatyavir/fun?style=social)](https://github.com/your-username/your-repo-name/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/itsmesatyavir/fun?style=social)](https://github.com/your-username/your-repo-name/network/members)
-
-A Node.js bot that interacts with **[FUN Message Scoring Bot](https://t.me/fun_message_scoring_bot?start=ref_2024951199)** to automate and enhance your FUN game experience.
+#  FUN Auto Quiz Bot
 
 ---
 
@@ -21,8 +14,8 @@ A Node.js bot that interacts with **[FUN Message Scoring Bot](https://t.me/fun_m
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.comitsmesatyavir/fun
-cd fun
+git clone https://github.com/mosibur1/funbot.git
+cd funbot
 ```
 ### 2️⃣ Install Dependencies
 ```bash
@@ -49,9 +42,3 @@ node main.js
 
 This project is licensed under the [MIT](LICENSE) License.
 
-
----
-
-📬 Contact
-
-For any issues or feature requests, open a GitHub issue or connect via: [Telegram](https://t.me/forestarmy)
