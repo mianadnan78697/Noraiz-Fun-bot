@@ -156,7 +156,7 @@ const main = async () => {
         const dataPath = path.join(__dirname, 'data.txt');
         lobbyIds = fs.readFileSync(dataPath, 'utf8').split('\n').map(id => id.trim()).filter(Boolean);
         if (lobbyIds.length === 0) throw new Error('data.txt is empty.');
-        console.log(green(`🚀 Checking ${lobbyIds.length} Accounts in parallel.`));
+        console.log(green(`🚀 Checking ${lobbyIds.length} Accounts by MRPTech Bot.`));
     } catch (error) {
         console.error(red(bold(`ERROR: Could not read 'data.txt'. Details: ${error.message}`)));
         process.exit(1);
