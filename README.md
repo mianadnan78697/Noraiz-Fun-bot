@@ -14,8 +14,8 @@
 
 ### 1 Clone the Repository
 ```bash
-git clone https://github.com/mosibur1/funbot.git
-cd funbot
+git clone https://github.com/mianadnan78697/Noraiz-Fun-bot.git
+cd Noraiz-Fun-bot
 ```
 ### 2 Install Dependencies
 ```bash
